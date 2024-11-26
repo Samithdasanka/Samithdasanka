@@ -1,3 +1,3 @@
 ----->  Hi everyone, I'm Samith Dasanka. I'm a student in computer science at the Faculty of Computer at SLIIT.
------>  I'm have learnt a few languages such as, HTML, CSS, Javascript, Python and C.
+----->  I have learnt a few languages such as, HTML, CSS, Javascript, Python and C.
 ----->  
