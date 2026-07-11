@@ -11,7 +11,7 @@ I am a Computer Science Undergraduate at SLIIT, who likes to work as Software En
 - **Tools:** Git, Docker
 
 ## Projects
--**Colombo Premium Rent A Car web application** - For our 2nd Year 2nd Semester project, our group built a fully functional Rent A Car Web Application with a Separate Vehicle management system built in for a real client. It is live at colombopremiumrentacar.lk .
+- **Colombo Premium Rent A Car web application** - For our 2nd Year 2nd Semester project, our group built a fully functional Rent A Car Web Application with a Separate Vehicle management system built in for a real client. It is live at colombopremiumrentacar.lk
 
 ## Reach Me
 📫dasankasamith@gmail.com
